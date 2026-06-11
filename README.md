@@ -1,172 +1,414 @@
-<!-- ================= HERO ================= -->
+# <div align="center">
 
-<!-- ================= HERO ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4C1D95,50:6D28D9,100:8B5CF6&text=Anandhanarayan%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;Cybersecurity+Analyst;SOC+%26+Threat+Detection+Enthusiast;Full+Stack+Developer;AI+%2F+ML+Engineer;Open+Source+Contributor"/>
+
+<br/>
+
+![BSc Computer Science](https://img.shields.io/badge/B.Sc-Computer%20Science-6D28D9?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-SOC%20Analyst-7C3AED?style=for-the-badge)
+![AI ML](https://img.shields.io/badge/AI%20%7C%20ML-Engineer-8B5CF6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-4F46E5?style=for-the-badge)
+
+<br/>
+
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anandhanarayan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:anandhanarayank3190@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anandhan-2253">
+<img src="https://img.shields.io/badge/GitHub-Profile-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=Anandhan-2253&style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/followers/Anandhan-2253?style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/stars/Anandhan-2253?affiliations=OWNER&style=for-the-badge&color=4F46E5)
+
+</div>
+
+---
+
+# About Me
+
+Software Engineer and Cybersecurity Professional with a strong foundation in Full Stack Development, Security Engineering, AI-powered systems, and modern cloud-native technologies.
+
+Focused on building scalable, secure, and high-performance applications while applying engineering best practices across software architecture, DevOps, cybersecurity, and machine learning workflows.
+
+Experienced in:
+
+- Designing secure web applications
+- Building modern React and Node.js platforms
+- AI-assisted automation systems
+- SOC operations and SIEM workflows
+- Threat detection and incident analysis
+- API security and authentication systems
+- Cloud security assessment and monitoring
+- Open-source collaboration and product engineering
+
+### Open To
+
+- Software Engineer Roles
+- Full Stack Developer Roles
+- Cybersecurity Analyst Roles
+- SOC Analyst Roles
+- Security Engineering Roles
+- AI/ML Engineering Opportunities
+- Open Source Collaborations
+
+---
+
+# Tech Stack
+
+## Languages
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Anandhanarayan%20K&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Cybersecurity%20|%20AR%20Innovator&descAlignY=55&descSize=18" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,php,java,bash&theme=dark"/>
 </p>
 
-<h3 align="center">
-  🚀 Software Developer • 🔐 Cybersecurity Enthusiast • 🕶️ AR Innovator
-</h3>
+## Frontend
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Secure+%26+Scalable+Systems;AR+%2B+3D+Interactive+Experiences;Bug+Bounty+%7C+Web3+Security;If+users+don%E2%80%99t+feel+it%2C+it%E2%80%99s+not+finished" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite&theme=dark"/>
 </p>
 
+## Backend & Databases
+
 <p align="center">
-  🌌 Code • 🧠 Creativity • 🕶️ AR • 🎮 3D • 🔐 Security
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,firebase&theme=dark"/>
 </p>
 
----
-
-# 🧬 About Me
-
-💡 I design and build:
-- 🔐 **Secure systems (Cybersecurity-first mindset)**
-- 🌐 **Full-stack web applications**
-- 🕶️ **AR + 3D interactive experiences**
-- ⚡ **Human-centered digital products**
-
-📚 Currently leveling up:
-- ⚛️ Advanced React patterns & performance
-- 🎨 UI/UX animations & motion design
-- 🕶️ WebXR + AR integrations
-- 🔐 API security & bug bounty workflows
-
-💬 Philosophy:
-> *“If users don’t feel it, it’s not finished.”*
-
----
-
-# 🚀 What Makes Me Different
-
-✔️ Security + Development mindset (rare combo)  
-✔️ Real-world projects (AR, AI, Cybersecurity tools)  
-✔️ Strong focus on **UX + performance + scalability**  
-✔️ Hands-on experience in **API testing & vulnerability analysis**
-
----
-
-# 🛠️ Tech Stack
-
-## 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Core-black?style=for-the-badge)
-![C](https://img.shields.io/badge/C-System-blue?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-OOP-orange?style=for-the-badge)
-
-## 🌐 Development
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-API-gray?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge)
-
-## 🧠 AI / ML / AR
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-DL-red?style=for-the-badge)
-![ARCore](https://img.shields.io/badge/ARCore-AugmentedReality-purple?style=for-the-badge)
-
-## 🔐 Cybersecurity
-![Burp Suite](https://img.shields.io/badge/BurpSuite-Testing-orange?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-Security-red?style=for-the-badge)
-![PenTesting](https://img.shields.io/badge/PenTesting-Active-black?style=for-the-badge)
-
-## ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-Editor-blue?style=for-the-badge)
-
----
-
-# 🧠 Featured Projects
-
-## 🕶️ EduView AR
-> 3D AR-based math visualization system  
-- Real-time equation visualization  
-- ARCore + Sceneform integration  
-- Immersive learning experience  
-
----
-
-## 🛡️ AEGIS-X
-> AI-powered SOC platform (SIEM/SOAR inspired)  
-- Threat intelligence classification  
-- Role-based access control  
-- Malware analysis workflows  
-
----
-
-## 🧪 ParkScan
-> Parkinson’s detection using ML  
-- CNN + LSTM hybrid model  
-- EMG + FSR sensor data  
-- Medical data analysis  
-
----
-
-## 🔍 Auto-OSINT
-> Automated intelligence gathering tool  
-- IP, email, username tracking  
-- API integrations  
-- Data visualization  
-
----
-
-## ☁️ Cloud Misconfiguration Scanner
-> Cloud security auditing tool  
-- Detects IAM & storage issues  
-- Risk prioritization system  
-
----
-
-# 📊 GitHub Analytics
+## Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anandhan-2253&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhan-2253&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhan-2253&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,postman,vscode,splunk&theme=dark"/>
 </p>
 
 ---
 
-# 🏆 Credentials Snapshot
+# AI / ML Expertise
 
-🎓 Certified Penetration Tester v3  
-🎓 Ethical Hacker (Cisco)  
-🎓 Deloitte Forage Internship  
-🎓 Cloud Computing & Cybersecurity Certifications  
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://instagram.com/iam.anandhan_">
-    <img src="https://img.shields.io/badge/Instagram-Life-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/anandhanarayan">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:anandhanaryan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+| Domain | Proficiency | Details |
+|----------|------------|-----------|
+| Machine Learning | Advanced | Supervised & Unsupervised Learning |
+| Deep Learning | Advanced | CNN, RNN, CNN-LSTM Architectures |
+| Healthcare AI | Advanced | Parkinson's Disease Detection using EMG & FSR Data |
+| Computer Vision | Intermediate | Feature Extraction & Image Processing |
+| Data Analytics | Advanced | Data Cleaning, Visualization & Insights |
+| Python AI Stack | Advanced | NumPy, Pandas, Scikit-Learn, TensorFlow |
+| Model Optimization | Intermediate | Hyperparameter Tuning & Evaluation |
+| AI Security | Intermediate | Security Monitoring & Threat Detection |
 
 ---
 
-# 👀 Visitors
+# Featured Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anandhan-2253&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<details>
+<summary><b>AEGIS-X — AI SOC Simulation Platform</b></summary>
+
+### Overview
+
+AI-powered SOC simulation platform designed for alert ingestion, detection engineering, incident investigation, and analyst workflows.
+
+| Category | Details |
+|-----------|----------|
+| Stack | React, Node.js, Express, MySQL |
+| Scale | Multi-module Security Platform |
+| Performance | Automated Alert Correlation |
+| Security | RBAC, Secure Authentication |
+| Impact | Security Operations Simulation |
+| Repository | Private |
+
+### Project Explanation
+
+Built a SOC-style platform that simulates enterprise security operations including:
+
+- Alert ingestion
+- Incident tracking
+- Threat investigation
+- Security workflows
+- Detection logic implementation
+- Security analyst dashboards
+
+</details>
+
+<details>
+<summary><b>Cloud Misconfiguration Scanner</b></summary>
+
+### Overview
+
+Python-based cloud security assessment tool focused on identifying insecure cloud configurations.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Python |
+| Scale | Security Automation Tool |
+| Performance | Automated Scanning |
+| Security | IAM & Access Control Validation |
+| Impact | Risk Reduction |
+| Repository | Private |
+
+### Project Explanation
+
+Features:
+
+- IAM security analysis
+- Privilege escalation detection
+- Storage exposure checks
+- Network security validation
+- Automated reporting
+
+</details>
+
+<details>
+<summary><b>Auto-OSINT Platform</b></summary>
+
+### Overview
+
+Automated reconnaissance and OSINT framework for attack surface visibility.
+
+| Category | Details |
+|-----------|----------|
+| Stack | Python, APIs |
+| Scale | Security Intelligence Tool |
+| Performance | Automated Discovery |
+| Security | Exposure Detection |
+| Impact | Threat Intelligence Support |
+| Repository | Private |
+
+### Project Explanation
+
+Capabilities:
+
+- Asset discovery
+- Exposure monitoring
+- Domain intelligence
+- Public data collection
+- Security risk identification
+
+</details>
+
+<details>
+<summary><b>ShineTech Management Platform</b></summary>
+
+### Overview
+
+Enterprise-grade business management system for job tracking, customer management, invoicing, and reporting.
+
+| Category | Details |
+|-----------|----------|
+| Stack | React, Node.js, Express, MySQL |
+| Scale | Multi-Module Web Platform |
+| Performance | Optimized API Workflows |
+| Security | Role-Based Access Control |
+| Impact | Business Process Automation |
+| Repository | Private |
+
+### Project Explanation
+
+Delivered modules for:
+
+- Job Management
+- Customer Management
+- Vehicle Tracking
+- Invoice Generation
+- Salary Reports
+- Financial Reporting
+- Dashboard Analytics
+
+</details>
 
 ---
 
-<p align="center">
-  ⚡ Designed like a product. Built like a system. Secured like a fortress.
-</p>
+# Experience
+
+## Software Developer — ShineTech
+
+**2025 – Present**
+
+Building scalable web applications and business management solutions using modern JavaScript technologies.
+
+### Scope of Work
+
+- Frontend development using React
+- REST API integration
+- UI/UX optimization
+- State management implementation
+- Database-driven applications
+- Performance enhancements
+- Release management workflows
+- Production bug fixing
+
+**Skills**
+
+`React` `Node.js` `JavaScript` `Express` `MySQL` `Git` `REST APIs`
+
+---
+
+## Cybersecurity & SOC Labs
+
+**2024 – Present**
+
+Hands-on security operations training through practical SOC environments and cybersecurity labs.
+
+### Scope of Work
+
+- SIEM Monitoring
+- Splunk Analysis
+- Alert Triage
+- Threat Detection
+- Incident Investigation
+- HTTP Traffic Analysis
+- Authentication Log Review
+- API Security Analysis
+
+**Skills**
+
+`Splunk` `SOC` `Threat Hunting` `Burp Suite` `OSINT` `SIEM`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|------------|---------|
+| Security Research | Conducted hands-on security assessments and vulnerability analysis |
+| AI Engineering | Built ML models for healthcare-focused research |
+| Software Development | Delivered production-grade business applications |
+| Open Source Learning | Continuous contribution to developer communities |
+| Cybersecurity Training | Practical SOC, SIEM and incident response experience |
+
+</div>
+
+---
+
+# Certifications
+
+## Cisco
+
+![Ethical Hacker](https://img.shields.io/badge/Cisco-Ethical%20Hacker-1BA0D7?style=for-the-badge&logo=cisco)
+
+![Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco)
+
+## Professional Security Certifications
+
+![CEH](https://img.shields.io/badge/CEH-EC--Council-red?style=for-the-badge)
+
+![CPT](https://img.shields.io/badge/CPT-v3-purple?style=for-the-badge)
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anandhan-2253&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anandhan-2253&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anandhan-2253&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anandhan-2253&theme=tokyonight&no-frame=true&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anandhan-2253&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced SOC Operations
+  - Threat Intelligence
+  - Cloud Security
+  - Security Engineering
+  - AI Security
+
+Building:
+  - AEGIS-X Security Platform
+  - AI Security Tools
+  - Full Stack Applications
+
+Exploring:
+  - LLM Security
+  - Web3 Security
+  - Detection Engineering
+  - Cloud Infrastructure
+
+Open_To:
+  - Software Engineering Roles
+  - Cybersecurity Roles
+  - SOC Analyst Positions
+  - AI/ML Opportunities
+  - Open Source Contributions
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:anandhanarayank3190@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/anandhanarayan">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anandhan-2253">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# <div align="center">"Engineering secure, scalable, and intelligent systems that create measurable impact."</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4C1D95,50:6D28D9,100:8B5CF6"/>
